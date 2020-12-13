@@ -4,6 +4,7 @@ Predicting the severity of wildfire in US (Final Project of DSGA-1001)
 *The full report is listed as **DS_GA_1001_Project_Report.pdf***.
 
 _Abstract_:
+
 Wildfire has become a big issue in the United States,
 causing casualties and substantial economic losses every year. In
 this project, we aim to predict the fire size of wildfires using
